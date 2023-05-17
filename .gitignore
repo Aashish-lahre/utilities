@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But not these files
+!.gitignore
+!lib
+!lib/CustomTextField.dart
+!lib/utility.dart
